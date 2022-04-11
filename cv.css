@@ -1,0 +1,49 @@
+*{
+	background-color: #B0C4DE;
+}
+
+.infos{
+        font-weight: bold;
+        font-family: helvetica;
+        font-size: 100%;
+
+}
+
+h1{
+	text-align: center;
+	background-color: #778899;
+}
+
+.class1{
+	margin-left: 55%;
+	width: 40%;
+	position: absolute;
+	top: 40%;
+	bottom: 10%;
+
+	
+}
+
+.loisir{
+	margin-top: 10%;
+	text-align: center;
+	margin-right: 80%;
+	background-color: #778899;
+
+}
+
+h2{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+hr{
+	margin-right: 10%;
+	height: 2%;
+	background-color: #778899;
+}
+
+img{
+	border-radius: 20%;
+
+}
